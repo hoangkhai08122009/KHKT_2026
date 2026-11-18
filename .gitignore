@@ -1,0 +1,11 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.test*
+*.backup-*.db
+*.incompatible-*.db
+.streamlit/secrets.toml
+*.db
+~$*.docx
