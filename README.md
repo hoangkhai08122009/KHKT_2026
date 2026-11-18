@@ -1,8 +1,1 @@
-# pytest cache directory #
-
-This directory contains data from the pytest's cache plugin,
-which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
-
-**Do not** commit this to version control.
-
-See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
+EduMind là nền tảng học tập thông minh tích hợp trí tuệ nhân tạo (AI), được thiết kế nhằm đồng hành toàn diện cùng học sinh trên hành trình chinh phục tri thức, phát triển bản thân và định hướng tương lai.
